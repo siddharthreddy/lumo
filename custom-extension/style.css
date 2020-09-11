@@ -1,0 +1,21 @@
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: helvetica, arial, sans-serif;
+    margin: 2em;
+    background-color: white;
+  }
+  
+  .top-group {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .link {
+    font-size: 12px;
+    line-height: 16px;
+    margin-top: 22px;
+    height: 18px;
+    overflow: hidden;
+  }
