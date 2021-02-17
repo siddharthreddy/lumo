@@ -1,0 +1,9 @@
+﻿TYPE,PARENT ID,PRODUCT ID,PRODUCT NAME,PRICE,SELL PRICE,SIZE,COLOURS-SINGLE,STYLE,SURCHARGE_TYPE,SURCHARGE_VALUE
+PARENT,,38861 17007,"Karastan Titanium Overture Platinum (2' 1""x7' 10"")",649,396,,Gray,Traditional,,
+VARIANT,38861 17007,38861 17007 025094 IP,"Karastan Titanium Overture Platinum (2' 1""x7' 10"")",649,3960,"2' 1""x7' 10""",Gray,Traditional,ABSOLUTE,200
+VARIANT,38861 17007,38861 17007 042066 IP,"Karastan Titanium Overture Platinum (3' 6""x5' 6"")",699,4360,"3' 6""x5' 6""",Gray,Traditional,ABSOLUTE,180
+VARIANT,38861 17007,38861 17007 063094 IP,"Karastan Titanium Overture Platinum (5' 3""x7' 10"")",1399,8760,"5' 3""x7' 10""",Gray,Traditional,ABSOLUTE,170
+VARIANT,38861 17007,38861 17007 096132 IP,Karastan Titanium Overture Platinum (8'x11'),2699,17160,8'x11',Gray,Traditional,ABSOLUTE,190
+VARIANT,38861 17007,38861 17007 112153 IP,"Karastan Titanium Overture Platinum (9' 4""x12' 9"")",3699,23560,"9' 4""x12' 9""",Gray,Traditional,ABSOLUTE,180
+VARIANT,38861 17007,38861 17007 144180 IP,Karastan Titanium Overture Platinum (12'x15'),5949,37960,12'x15',Gray,Traditional,ABSOLUTE,180
+PARENT,,39400 16001,"Karastan Titanium Verta Gray (2' 1""x7' 10"")",649,3960,,Charcoal,Transitional,ABSOLUTE,170
