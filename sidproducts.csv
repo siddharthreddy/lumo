@@ -1,9 +1,9 @@
 ﻿TYPE,PARENT ID,PRODUCT ID,PRODUCT NAME,PRICE,SELL PRICE,SIZE,COLOURS-SINGLE,STYLE
-PARENT,,38861 17007,"Karastan Titanium Overture Platinum (2' 1""x7' 10"")",649,396,,Gray,Traditional
-VARIANT,38861 17007,38861 17007 025094 IP,"Karastan Titanium Overture Platinum (2' 1""x7' 10"")",649,396,"2' 1""x7' 10""",Gray,Traditional
-VARIANT,38861 17007,38861 17007 042066 IP,"Karastan Titanium Overture Platinum (3' 6""x5' 6"")",699,436,"3' 6""x5' 6""",Gray,Traditional
-VARIANT,38861 17007,38861 17007 063094 IP,"Karastan Titanium Overture Platinum (5' 3""x7' 10"")",1399,876,"5' 3""x7' 10""",Gray,Traditional
-VARIANT,38861 17007,38861 17007 096132 IP,Karastan Titanium Overture Platinum (8'x11'),2699,1716,8'x11',Gray,Traditional
-VARIANT,38861 17007,38861 17007 112153 IP,"Karastan Titanium Overture Platinum (9' 4""x12' 9"")",3699,2356,"9' 4""x12' 9""",Gray,Traditional
-VARIANT,38861 17007,38861 17007 144180 IP,Karastan Titanium Overture Platinum (12'x15'),5949,3796,12'x15',Gray,Traditional
-PARENT,,39400 16001,"Karastan Titanium Verta Gray (2' 1""x7' 10"")",649,396,,Charcoal,Transitional
+PARENT,,38861 17007,"Karastan Titanium Overture Platinum (2' 1""x7' 10"")",649.000,396,,Gray,Traditional
+VARIANT,38861 17007,38861 17007 025094 IP,"Karastan Titanium Overture Platinum (2' 1""x7' 10"")",649.000,396,"2' 1""x7' 10""",Gray,Traditional
+VARIANT,38861 17007,38861 17007 042066 IP,"Karastan Titanium Overture Platinum (3' 6""x5' 6"")",699.000,436,"3' 6""x5' 6""",Gray,Traditional
+VARIANT,38861 17007,38861 17007 063094 IP,"Karastan Titanium Overture Platinum (5' 3""x7' 10"")",1399.000,876,"5' 3""x7' 10""",Gray,Traditional
+VARIANT,38861 17007,38861 17007 096132 IP,Karastan Titanium Overture Platinum (8'x11'),2699.000,1716,8'x11',Gray,Traditional
+VARIANT,38861 17007,38861 17007 112153 IP,"Karastan Titanium Overture Platinum (9' 4""x12' 9"")",3699.000,2356,"9' 4""x12' 9""",Gray,Traditional
+VARIANT,38861 17007,38861 17007 144180 IP,Karastan Titanium Overture Platinum (12'x15'),5949.000,3796,12'x15',Gray,Traditional
+PARENT,,39400 16001,"Karastan Titanium Verta Gray (2' 1""x7' 10"")",649.000,396,,Charcoal,Transitional
